@@ -8,4 +8,4 @@ Os prints servem como complemento ao vídeo e ao código, mostrando um pouco mai
 
 Participantes:
 Lucas Alcântara Pinho da Nóbrega
-Tiago Monteiro Simoes Calvacante 
+Tiago Monteiro Simoes Cavalcante 
